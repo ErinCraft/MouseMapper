@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MouseMapper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="R" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">18</Value>
+    </Setting>
+    <Setting Name="G" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">137</Value>
+    </Setting>
+    <Setting Name="B" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">167</Value>
+    </Setting>
+    <Setting Name="DefaultlblFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri Light, 14.25pt</Value>
+    </Setting>
+    <Setting Name="DefaulttxtFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri Light, 9pt</Value>
+    </Setting>
+    <Setting Name="Rb" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">18</Value>
+    </Setting>
+    <Setting Name="Gb" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">137</Value>
+    </Setting>
+    <Setting Name="Bb" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">167</Value>
+    </Setting>
+    <Setting Name="isTransparent" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Rf" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="Gf" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="Bf" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="DefaultSubText" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri Light, 12pt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

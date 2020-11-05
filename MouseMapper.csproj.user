@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\stefa\Desktop\MM\|\\DESKTOP-LGVC0J0\MouseMapper\|F:\MouseMapper\|F:\</PublishUrlHistory>
+    <InstallUrlHistory>\\DESKTOP-LGVC0J0\MouseMapper\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://localhost/MouseMapper/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>it-IT</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

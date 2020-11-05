@@ -1,0 +1,8 @@
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\bin\x64\x64\MouseMapper.exe.config
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\bin\x64\x64\MouseMapper.exe
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\x64\MouseMapper.Hub.resources
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\x64\MouseMapper.Properties.Resources.resources
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\x64\MouseMapper.Settings.resources
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\x64\MouseMapper.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\x64\MouseMapper.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\x64\MouseMapper.exe

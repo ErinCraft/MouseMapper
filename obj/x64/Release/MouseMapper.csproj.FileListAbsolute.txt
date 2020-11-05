@@ -1,0 +1,11 @@
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\bin\x64\Release\MouseMapper.exe.config
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\bin\x64\Release\MouseMapper.exe
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\bin\x64\Release\MouseMapper.pdb
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\Release\MouseMapper.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\Release\MouseMapper.Hub.resources
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\Release\MouseMapper.Properties.Resources.resources
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\Release\MouseMapper.Settings.resources
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\Release\MouseMapper.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\Release\MouseMapper.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\Release\MouseMapper.exe
+C:\Users\stefa\source\repos\MouseMapper\MouseMapper\obj\x64\Release\MouseMapper.pdb
